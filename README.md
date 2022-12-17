@@ -29,5 +29,5 @@ npm start
 ## Technologies:
 This project was built utilizing a combination of React, Node.js, Express, PostgreSQL and Webpack.
 
-## Demo
+## Demo (Mobile First Design)
 https://user-images.githubusercontent.com/112290188/208264396-4b9c1af2-cf2c-45c4-8397-a6e6ccf96739.mov
